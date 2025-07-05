@@ -80,8 +80,6 @@ Data types were cleaned and verified (e.g., dates as date type, numeric fields a
 - **🟠 Lowest:** February 2023 (45) ↑ +28.3%  
 - **🔵 Highest:** November 2023 (183) ↑ +28.3%
 
-> ⚠️ Issue: February and November 2023 initially showed same value for orders due to axis misalignment — now fixed using synchronized dual-axis.
-
 ---
 
 ### 🔹 Customer Distribution by No. of Orders  
